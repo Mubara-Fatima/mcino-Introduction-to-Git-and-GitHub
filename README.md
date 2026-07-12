@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+## Update
+This is a minor update to demonstrate a bug fix and pull request workflow.
